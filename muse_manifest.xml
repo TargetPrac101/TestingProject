@@ -1,0 +1,26 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Testing.com" resolutions="1x" timestamp="1463225669216">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="3962772929" ref="index"/>
+    <file name="register-interest-for-upcoming-camps.css" crc="4241877549" ref="register-interest-for-upcoming-camps"/>
+    <file name="follow-up-assessment.css" crc="4241877549" ref="follow-up-assessment"/>
+    <file name="child-protection-training.css" crc="4292965513" ref="child-protection-training"/>
+    <file name="child-protection-assessment.css" crc="425842287" ref="child-protection-assessment"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:child-protection-training:register-interest-for-upcoming-camps:follow-up-assessment:child-protection-assessment"/>
+    <file name="museutils.js" crc="3790713428" ref="index:child-protection-training:register-interest-for-upcoming-camps:follow-up-assessment:child-protection-assessment"/>
+    <file name="whatinput.js" crc="84559013" ref="index:child-protection-training:register-interest-for-upcoming-camps:follow-up-assessment:child-protection-assessment"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:child-protection-training:register-interest-for-upcoming-camps:follow-up-assessment:child-protection-assessment"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:child-protection-training:register-interest-for-upcoming-camps:follow-up-assessment:child-protection-assessment"/>
+  </folder>
+  <folder name="images">
+    <file name="camp clayton logo - transparent background white writing 2.png" crc="4031061433" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3775845782" seo="true" mt="1463225621476" redirect="true"/>
+  <file name="child-protection-training.html" crc="5525085" seo="true" mt="1463225621457" redirect="true"/>
+  <file name="register-interest-for-upcoming-camps.html" crc="316371837" seo="true" mt="1463225621457" redirect="false"/>
+  <file name="follow-up-assessment.html" crc="504891658" seo="true" mt="1463225621473" redirect="false"/>
+  <file name="child-protection-assessment.html" crc="3796866153" seo="true" mt="1463225621474" redirect="true"/>
+</manifest>
